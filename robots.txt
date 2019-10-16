@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /assets/
 Allow: /en/
 
-Sitemap: https://www.skgtec.ml/sitemap.xml
+Sitemap: https://www.skgtechnology.com/sitemap.xml
